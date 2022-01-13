@@ -170,11 +170,9 @@ df.show()
 
 ![](https://www.filepicker.io/api/file/pNSuRl04QA2Cfl5QWa3X)
 
-Want to learn more about Delta Lake with hands-on experience? Check out our free meetup session recording here:
+Want to learn more about Delta Lake experience? Check out this session recording here:
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=a18C8kJfNrE" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+[![Watch the video](https://img.youtube.com/vi/a18C8kJfNrE/maxresdefault.jpg)](https://www.youtube.com/watch?v=a18C8kJfNrE)
 
 ## Conclusion
 
